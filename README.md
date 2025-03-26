@@ -8,12 +8,12 @@
 
   # GUILHERME - ENGENHARIA DA COMPUTAÇÃO
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+3%C2%B0+PERÍODO;MARABÁ+-+PARÁ;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+7%C2%B0+PERÍODO;MARABÁ+-+PARÁ;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
 
-  <a href="https://www.linkedin.com/in/alexsander2002">
+  <a href="https://www.linkedin.com/in/guilherme-l-938351246">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/ALEXSANDER2002">
+  <a href="https://github.com/guidzn1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
@@ -25,8 +25,8 @@
 
 ```diff
 @@ Informações Pessoais @@
-+ Nome: ALEXSANDER
-- Idade: 22 ANOS
++ Nome: GUILHERME LIMA
+- Idade: 21 ANOS
 ! Localização: MARABÁ - PA
 # Universidade: UNIFESSPA
 @@ Engenharia da Computação - 7° Período @@
@@ -62,7 +62,7 @@ $ Sempre em busca de inovações na área da computação \o/
 ## 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
-  <a href="https://github.com/ALEXSANDER2002">
+  <a href="https://github.com/guidzn1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALEXSANDER2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github" alt="GitHub Stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXSANDER2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
   </a>
@@ -83,23 +83,15 @@ $ Sempre em busca de inovações na área da computação \o/
 
 <div align="center">
   
-  <a href="https://github.com/ALEXSANDER2002/projeto-ru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALEXSANDER2002&repo=projeto-ru&theme=tokyonight" alt="Sistema RU">
+  <a href="https://github.com/guidzn1/Projeto-HackaTruck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALEXSANDER2002&repo=projeto-ru&theme=tokyonight" alt="HackTruck">
   </a>
-  <a href="https://github.com/ALEXSANDER2002/projeto-canaa">
+  <a href="https://github.com/guidzn1/Agendai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALEXSANDER2002&repo=projeto-canaa&theme=tokyonight" alt="Turismo Canaã">
   </a>
   
 </div>
 
-## 🎮 DIVERSÃO E INTERAÇÃO
-
-<div align="center">
-  
-  <h3>Jogo da Cobrinha</h3>
-  <a href="https://ALEXSANDER2002.github.io/projeto-canaa/snake_game.html">
-    <img src="https://img.shields.io/badge/JOGAR_AGORA-33FF33?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE3LDEwLjVWN0ExLDEgMCAwLDAgMTYsNkgxNVYzQTEsMSAwIDAsMCAxNCwySDEwQTEsMSAwIDAsMCA5LDNWNkg4QTEsMSAwIDAsMCA3LDdWMTAuNUw1LjUsMTJMNywxMy41VjE3QTEsMSAwIDAsMCA4LDE4SDlWMjFBMSwxIDAsMCAwIDEwLDIySDE0QTEsMSAwIDAsMCAxNSwyMVYxOEgxNkExLDEgMCAwLDAgMTcsMTdWMTMuNUwxOC41LDEyTDE3LDEwLjVNMTIsMTVBMSwxIDAsMCwxIDExLDE0QTEsMSAwIDAsMSAxMiwxM0ExLDEgMCAwLDEgMTMsMTRBMSwxIDAsMCwxIDEyLDE1WiIgLz48L3N2Zz4=" alt="Jogo da Cobrinha">
-  </a>
   
   <h3>Contador de Visitantes</h3>
   
