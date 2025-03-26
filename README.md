@@ -4,11 +4,11 @@
   
   ![Matrix Header](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxNjF3M3kyMzd5a283aDl3aXQxZm5wb2MyZDZpZG15MXF6dW45bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxNjF3M3kyMzd5a283aDl3aXQxZm5wb2MyZDZpZG15MXF6dW45bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150" alt="Animação de boas-vindas">
 
   # GUILHERME - ENGENHARIA DA COMPUTAÇÃO
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+7%C2%B0+PERÍODO;MARABÁ+-+PARÁ;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+7%C2%B0+PERÍODO;MARAB%C3%81+-+PAR%C3%81;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
 
   <a href="https://www.linkedin.com/in/guilherme-l-938351246">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,9 +19,11 @@
   
 </div>
 
-## 👾 QUEM SOU EU
+## 👋 SOBRE MIM
 
-<img align="right" height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif">
+Olá! Eu sou Guilherme Lima, estudante de Engenharia da Computação na UNIFESSPA e desenvolvedor full stack apaixonado por tecnologia. Aqui compartilho meus projetos, aprendizados e inovações no desenvolvimento web e mobile.
+
+<img align="right" height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif" alt="Gif de introdução">
 
 ```diff
 @@ Informações Pessoais @@
@@ -34,6 +36,7 @@
 $ Apaixonado por futebol, design e jiu jitsu
 $ Desenvolvo projetos em React Native, Next.js e Node.js
 $ Sempre em busca de inovações na área da computação \o/
+
 ```
 
 <br>
