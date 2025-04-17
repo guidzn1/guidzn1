@@ -66,8 +66,8 @@ $ Sempre em busca de inovações na área da computação \o/
 
 <div align="center">
   <a href="https://github.com/guidzn1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALEXSANDER2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXSANDER2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidzn1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidzn1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
   </a>
 </div>
 
@@ -75,10 +75,10 @@ $ Sempre em busca de inovações na área da computação \o/
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ALEXSANDER2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=guidzn1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
 
   
-  <img src="https://github-profile-trophy.vercel.app/?username=ALEXSANDER2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=guidzn1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
   
 </div>
 
