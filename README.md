@@ -98,7 +98,7 @@ $ Sempre em busca de inovações na área da computação \o/
   
   <h3>Contador de Visitantes</h3>
   
-  ![Visitor Count](https://profile-counter.glitch.me/ALEXSANDER2002/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/guidzn1/count.svg)
   
 </div>
 
